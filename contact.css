@@ -1,0 +1,31 @@
+body{
+background-image: url(pen.html);
+background-repeat: no-repeat;
+background-size: 1600px;
+
+}
+form{
+    width: 400px;
+    border: solid 1px;
+    margin-left: 40px;
+}
+label{
+    font-size: 22px;
+    color: black;
+    font-weight: lighter;
+}
+input{
+    height: 30px;
+    width: 400px;
+}
+textarea{
+    height:100px;
+    width: 400px;
+}
+button{
+    height: 50px;
+    width: 100px;
+    color: black;
+    background-color: pink;
+    font-size: 22px;
+}
